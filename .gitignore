@@ -29,3 +29,7 @@ packaging/standalone/src/main/distribution/cypher-shell*
 packaging/standalone/src/main/distribution/apoc*
 /.profiler/
 dependency-reduced-pom.xml
+
+red4j-data/
+**/cp.txt
+**.java.orig
